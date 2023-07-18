@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harish</h1>
-<h3 align="center">My domain of interest lies in the field of Full Stack Web Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript.</h3>
+- 🎓 I have got my Undergraduation degree from [Arunai Engineering College, Tiruvannamalai](https://www.arunai.org/) in the domain of Computer Science Engineering.
+
+- 🎓 I have also completed an AI Nano degree with python from Udacity sponsored by AWS.
+
+- 😍 My domain of interest lies in the field of Full Stack Web Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript.
+
+- 🌱 I’m currently learning to integrate Machine Learning & Artificial Intelligence concepts with my area of interest in Full Stack Web Development to come up with an application for safety of the people.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
