@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harish</h1>
-- 🎓 I have got my Undergraduation degree from [Arunai Engineering College, Tiruvannamalai](https://www.arunai.org/) in the domain of Computer Science Engineering.
+- 🎓 I have got my Undergraduation degree from [Arunai Engineering College,Tiruvannamalai](https://arunai.org/) in the domain of Computer Science Engineering.
 
 - 🎓 I have also completed an AI Nano degree with python from Udacity sponsored by AWS.
 
