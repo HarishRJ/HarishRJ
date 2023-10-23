@@ -3,7 +3,7 @@
 
 - 🎓 I have also completed an AI Nano degree with python from Udacity sponsored by AWS.
 
-- 😍 My domain of interest lies in the field of Full Stack Web Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript.
+- 😍 My domain of interest lies in the field of Full Stack Web Development, specialized in Backend Development using Java | Nodejs and Frontend Development using React.
 
 - 🌱 I’m currently learning to integrate Machine Learning & Artificial Intelligence concepts with my area of interest in Full Stack Web Development to come up with an application for safety of the people.
 
